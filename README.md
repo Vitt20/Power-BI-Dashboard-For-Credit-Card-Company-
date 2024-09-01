@@ -1,2 +1,2 @@
-# Power-BI-Dashboard-For-Credit-Card-Company-
-Sales interactive dashboards for Sales Area 
+# Credit_Card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
